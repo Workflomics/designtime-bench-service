@@ -1,5 +1,7 @@
-# Design-time Benchmarking RESTful Service
-RESTful service for design-time benchmarking of workflows. The service focuses on aggregating tool specific benchmarks (available in bio.tools and OpenEBench).
+# RESTful Service in TS (initial structure)
+RESTful service intended for design-time benchmarking of workflows. 
+
+The service was integrated into RESTful APE (as the architecture was changed), and thus this project is **discontinued** and **archived**.
 
 
 
